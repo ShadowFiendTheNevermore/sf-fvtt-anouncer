@@ -1,0 +1,25 @@
+{
+  "id": "sf-fvtt-anouncer",
+  "title": "FVTT anouncer for your games",
+  "description": "Module for create anounce message for player inside of chat",
+  "version": "pre-alpha",
+  "authors": [
+    {
+      "name": "sf",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "./src/main.js"
+  ],
+  "styles": [
+    "./src/styles/styles.css"
+  ],
+  "manifest": "",
+  "download": "",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "types": ["@league-of-foundry-developers/foundry-vtt-types"],
+    "checkJs": true,
+    "allowJs": true,
+    "noEmit": true,
+    "baseUrl": "."
+  },
+  "include": ["src/**/*.js", "node_modules/**/*.d.ts"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sf-fvtt-anouncer",
+  "version": "1.0",
+  "description": "sf-fvtt-anouncer module for foundryvtt",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/ShadowFiendTheNevermore",
+  "license": "ISC",
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^12.331.4-beta"
+  }
+}
