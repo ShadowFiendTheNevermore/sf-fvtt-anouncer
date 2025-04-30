@@ -71,7 +71,7 @@ let registerSettings = () => {
 
         game.settings.register(MODULE_ID, settingKey, {
             name: `Пользователь: ${user.name}`,
-            hint: `Уведомлять злостного должника ${user.name}. (если снять - уведомления не будет)`,
+            hint: `Будет ли пользователь получать уведомления (если снять, уведомления не будет)`,
             scope: "world",
             config: true,
             type: Boolean,

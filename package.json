@@ -1,6 +1,6 @@
 {
   "name": "sf-fvtt-anouncer",
-  "version": "1.0",
+  "version": "0.2.a",
   "description": "sf-fvtt-anouncer module for foundryvtt",
   "main": "src/main.js",
   "scripts": {
