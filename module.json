@@ -1,8 +1,8 @@
 {
   "id": "sf-fvtt-anouncer",
-  "title": "FVTT anouncer for your games",
+  "title": "SF Anouncer for your games",
   "description": "Module for create anounce message for player inside of chat",
-  "version": "pre-alpha",
+  "version": "0.1.a",
   "authors": [
     {
       "name": "sf",
@@ -15,11 +15,11 @@
   "styles": [
     "./src/styles/styles.css"
   ],
-  "manifest": "",
-  "download": "",
+  "manifest": "https://github.com/ShadowFiendTheNevermore/sf-fvtt-anouncer/releases/latest/download/module.json",
+  "download": "https://github.com/ShadowFiendTheNevermore/sf-fvtt-anouncer/archive/0.1.a.zip",
+  "url": "https://github.com/ShadowFiendTheNevermore/sf-fvtt-anouncer",
   "compatibility": {
     "minimum": "12",
-    "verified": "12",
-    "maximum": "12"
+    "verified": "12"
   }
 }
