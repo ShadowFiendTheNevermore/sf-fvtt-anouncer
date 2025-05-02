@@ -29,7 +29,10 @@ Hooks.once('ready', async () => {
 
         await ChatMessage.create({
             content: html,
-            whisper: [player.id, gm.id]
+            whisper: [player, gm].filter((receiver) => receiver !== null 
+                && receiver.id !== null 
+                && receiver.id !== ""
+            ).map((receiver) => receiver.id)
         });
     }
 });

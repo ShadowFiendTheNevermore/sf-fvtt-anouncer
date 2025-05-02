@@ -2,7 +2,7 @@
   "id": "sf-fvtt-anouncer",
   "title": "SF Anouncer",
   "description": "Module for create anounce message for player inside of chat",
-  "version": "0.2.a",
+  "version": "0.3.a",
   "authors": [
     {
       "name": "sf",
@@ -16,7 +16,7 @@
     "./src/styles/styles.css"
   ],
   "manifest": "https://github.com/ShadowFiendTheNevermore/sf-fvtt-anouncer/releases/latest/download/module.json",
-  "download": "https://github.com/ShadowFiendTheNevermore/sf-fvtt-anouncer/archive/0.2.a.zip",
+  "download": "https://github.com/ShadowFiendTheNevermore/sf-fvtt-anouncer/archive/0.3.a.zip",
   "url": "https://github.com/ShadowFiendTheNevermore/sf-fvtt-anouncer",
   "compatibility": {
     "minimum": "12",
